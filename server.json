@@ -1,0 +1,66 @@
+{
+  "stock": [
+    {
+      "id": 1,
+      "amount": 3
+    },
+    {
+      "id": 2,
+      "amount": 5
+    },
+    {
+      "id": 3,
+      "amount": 2
+    },
+    {
+      "id": 4,
+      "amount": 1
+    },
+    {
+      "id": 5,
+      "amount": 5
+    },
+    {
+      "id": 6,
+      "amount": 10
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Chuleta MATURATTA Congelado 600g",
+      "price": 21.23,
+      "image": "https://static.paodeacucar.com/img/uploads/1/169/11978169x200x200.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Activia Polpa Morango 400g 4 unidades",
+      "price": 8.99,
+      "image": "https://static.paodeacucar.com/img/uploads/1/927/675927x200x200.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Kit Presenteie SEARA Contém 1 Peru Temperado 4kg + 1 Lombo Temperado 900g 1 Bolsa Térmica 12 Litros",
+      "price": 99.54,
+      "image": "https://static.paodeacucar.com/img/uploads/1/348/19937348x200x200.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Linguiça com pimenta biquinho Seara Gourmet 500g",
+      "price": 14.27,
+      "image": "https://static.paodeacucar.com/img/uploads/1/21/661021x200x200.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Suco Integral Laranja Natural One Refrigerado Garrafa 900ml",
+      "price": 11.49,
+      "image": "https://static.paodeacucar.com/img/uploads/1/324/666324x200x200.png"
+    },
+    {
+      "id": 4,
+      "title": "Leite NINHO Integral 1L",
+      "price": 3.79,
+      "image": "https://static.paodeacucar.com/img/uploads/1/200/656200x200x200.jpg"
+    }
+  ]
+}
